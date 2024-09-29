@@ -7,7 +7,6 @@
   <li>Calculates the total cost of a meal including the tip.</li>
   <li>Allows the user to select from four tip percentage options: 12%, 15%, 18%, and 20%.</li>
   <li>Splits the total cost (with tip) evenly among a specified number of people.</li>
-  <li>Rounds the amount per person up to the nearest cent.</li>
   <li>Responsive UI in both portrait and landscape orientations using ConstraintLayout.</li>
   <li>Keeps calculated values intact when switching between portrait and landscape orientations.</li>
   <li>Clear button resets all input fields and calculations.</li>
