@@ -1,4 +1,4 @@
-<h1>Dining Cost Calculator App</h1>
+<h1>Tip Calculator App</h1>
 
 <p>This Android app assists users in calculating the total dining cost including a selected tip, and allows for splitting the total evenly among multiple people. The app is developed using Java in Android Studio and supports both portrait and landscape orientations with consistent behavior.</p>
 
